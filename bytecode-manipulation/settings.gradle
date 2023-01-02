@@ -1,0 +1,3 @@
+rootProject.name = 'bytecode-manipulation'
+include 'myagent'
+
